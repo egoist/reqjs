@@ -40,9 +40,7 @@
       }
     }
   },
-  "dependencies": {
-    "object-assign": "^4.1.1"
-  },
+  "dependencies": {},
   "devDependencies": {
     "babel-preset-env": "^1.4.0",
     "bili": "^0.17.0",
