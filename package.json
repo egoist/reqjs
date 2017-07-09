@@ -1,6 +1,6 @@
 {
   "name": "reqjs",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Require from string for browser use.",
   "repository": {
     "url": "egoist/reqjs",
