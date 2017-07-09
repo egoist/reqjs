@@ -17,7 +17,7 @@
     "test": "jest && npm run lint",
     "lint": "xo",
     "prepublish": "npm run build",
-    "build": "bili --filename req --format cjs,umd --compress umd"
+    "build": "bili --filename req --format cjs,umd --compress umd --banner"
   },
   "author": "egoist <0x142857@gmail.com>",
   "license": "MIT",
