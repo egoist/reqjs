@@ -6,7 +6,9 @@
     "url": "egoist/reqjs",
     "type": "git"
   },
-  "main": "dist/index.common.js",
+  "main": "dist/req.common.js",
+  "cdn": "dist/req.js",
+  "unpkg": "dist/req.js",
   "files": [
     "dist"
   ],
