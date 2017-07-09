@@ -9,6 +9,8 @@
 yarn add reqjs
 ```
 
+CDN: [UNPKG](https://unpkg.com/reqjs/dist/) | [jsDelivr](https://cdn.jsdelivr.net/npm/reqjs/dist/)
+
 ## Usage
 
 ```js
@@ -23,7 +25,7 @@ life() === 42 // true
 
 This is not really a CommonJS spec implementation, the code you `req` only supports `module.exports` and `exports`, you **cannot** use `require` inside the code!
 
-The primary use case is that I want to evaluate a piece of user-supplied code, and allowing user to specific what I need using `module.exports` syntax. (Note that this may be **dangerous**!)
+The primary use case is that I want to evaluate a piece of user-supplied code, and allowing user to specify what I need using `module.exports` syntax. (Note that this may be **dangerous**!)
 
 ## Contributing
 
